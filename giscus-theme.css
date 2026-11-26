@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
 /* Keiadwa Space - Giscus Theme */
 
 :root {
@@ -27,6 +28,8 @@ body {
 }
 
 .markdown-body {
+    font-family: 'Allura', cursive !important;
+    font-size: 22px;
     color: #39252E;
     line-height: 1.7;
 }
@@ -38,6 +41,7 @@ body {
 .markdown-body a:hover {
     color: #80515F;
 }
+
 /* Button Styling */
 
 .btn-primary {
