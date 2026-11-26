@@ -38,3 +38,23 @@ body {
 .markdown-body a:hover {
     color: #80515F;
 }
+/* Button Styling */
+
+.btn-primary {
+    background-color: #173F35;
+    color: #F7F3ED;
+    border: 1px solid #173F35;
+}
+
+.btn-primary:hover {
+    background-color: #276653;
+    border-color: #276653;
+}
+
+.btn {
+    border-radius: 8px;
+}
+
+.btn:hover {
+    transition: 0.2s ease;
+}
