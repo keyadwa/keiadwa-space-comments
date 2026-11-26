@@ -18,3 +18,23 @@
     --color-accent-muted: #D9BFC5;
     --color-accent-subtle: #EBD9DC;
 }
+
+/* Typography */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.markdown-body {
+    color: #39252E;
+    line-height: 1.7;
+}
+
+.markdown-body a {
+    color: #276653;
+}
+
+.markdown-body a:hover {
+    color: #80515F;
+}
