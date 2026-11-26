@@ -1,0 +1,20 @@
+/* Keiadwa Space - Giscus Theme */
+
+:root {
+    --color-canvas-default: #F7F3ED;
+    --color-canvas-overlay: #F7F3ED;
+    --color-canvas-inset: #EBD9DC;
+    --color-canvas-subtle: #EBD9DC;
+
+    --color-fg-default: #39252E;
+    --color-fg-muted: #80515F;
+    --color-fg-subtle: #80515F;
+
+    --color-border-default: #D9BFC5;
+    --color-border-muted: #D9BFC5;
+
+    --color-accent-fg: #173F35;
+    --color-accent-emphasis: #276653;
+    --color-accent-muted: #D9BFC5;
+    --color-accent-subtle: #EBD9DC;
+}
